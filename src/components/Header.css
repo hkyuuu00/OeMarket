@@ -1,0 +1,56 @@
+.header {
+    height: 100px;
+    text-align: center;
+    background-color: rgb(206, 249, 206);
+}
+.logoImg {
+    margin-right: 50px;
+    width: 170px;
+    height: 70px;
+    position: relative;
+    top: 15px;
+}
+.search {
+    height: 30px;
+    width: 500px;
+    margin: 20px;
+    position: relative;
+    bottom: 10px;
+}
+.searchLogo {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 3px;
+}
+.searchButton {
+    height: 35px;
+    width: 40px;
+    position: relative;
+    bottom: 5px;
+    
+}
+.sale {
+    margin-left: 70px;
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: white;
+    font-size: 16px;
+    position: relative;
+    bottom: 5px;
+    background-color: rgb(206, 249, 206);
+}
+.wishList {
+    margin-left: 50px;
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: white;
+    font-size: 16px;
+    position: relative;
+    bottom: 5px;
+    background-color: rgb(206, 249, 206);
+    color: black;
+    text-decoration: none;
+}

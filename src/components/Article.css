@@ -1,0 +1,60 @@
+.article {
+  border: 1px solid lightgray;
+  height: 1000px;
+  width: 1000px;
+  position: relative;
+  left: 250px;
+  margin-top: 30px;
+}
+.table {
+  margin: 15px;
+}
+.articleImg{
+  width: 200px;
+  height: 200px;
+  border: 1px;
+  border-radius: 10px;
+}
+.td {
+  border: 1px;
+  border-radius: 10px;
+  padding-left: 19px;
+  padding-right: 19px;
+  padding-bottom: 15px;
+  padding-top: 10px;
+  color: black;
+  transition: background-color 0.4s ease;
+}
+.td:hover {
+  background-color: rgb(222, 232, 222);
+}
+.td:active {
+  position: relative;
+  left: 0.5px;
+  top: 1px;
+  background-color: rgb(222, 232, 222);
+}
+.like {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  color: red;
+  margin-top: 250px;
+  margin-left: 200px;
+}
+.t_title{
+  font-size: 17px;
+  margin-left: 3px;
+}
+.t_price {
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 3px;
+}
+.t_location {
+  font-size: 13px;
+  color: gray;
+}
+a {
+  text-decoration: none;
+}
